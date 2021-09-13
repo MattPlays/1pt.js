@@ -1,0 +1,1 @@
+export default async function(long: string, short?: string): Promise<{status: number, message: string, short: string, long: string}>;

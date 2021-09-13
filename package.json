@@ -1,0 +1,25 @@
+{
+  "name": "1pt.js",
+  "version": "1.0.0",
+  "description": "1pt.js utilizes the 1pt.co API to return shortened urls",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattPlays/1pt.js.git"
+  },
+  "keywords": [
+    "1pt",
+    "url-shorteners",
+    "API"
+  ],
+  "author": "MattPlays (https://github.com/MattPlays)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattPlays/1pt.js/issues"
+  },
+  "homepage": "https://github.com/MattPlays/1pt.js#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
